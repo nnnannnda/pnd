@@ -1,0 +1,30 @@
+.container{
+	width: 100%;
+	min-height: 200%;
+}
+
+.navbar{
+	background-color: #1a0b66;
+}
+
+.navbar-brand{
+	float: none !important;
+}
+
+.jumbotron {
+  text-align: center;
+ }
+
+hr{
+	width: 250px;
+	border-top: 3px;
+	color: black;
+}
+
+h1{
+	color: white;
+}
+
+.isi {
+	background-color: white;
+}
